@@ -11,3 +11,6 @@ Desktop.ini
 *.njsproj
 *.sln
 *.swp
+
+# Sensitive config files containing tokens
+mcp_config.json
